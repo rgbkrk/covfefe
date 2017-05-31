@@ -22,5 +22,8 @@
   "keywords": [
     "covfefe",
     "despite"
-  ]
+  ],
+  "dependencies": {
+    "bl": "^1.2.1"
+  }
 }
