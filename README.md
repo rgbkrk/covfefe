@@ -27,3 +27,7 @@ npm install --save covfefe
 $ covfefe "despite all my rage"
 despite all my rage covfefe
 ```
+
+## Language Ports
+
+[pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
