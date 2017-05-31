@@ -5,7 +5,7 @@
   "main": "index.js",
   "bin": "./cli.js",
   "scripts": {
-    "test": "node test",
+    "test": "node test"
   },
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
   "license": "BSD-3-Clause",
