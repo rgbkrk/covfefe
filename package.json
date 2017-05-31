@@ -25,7 +25,9 @@
     "index.js",
     "cli.js",
     "music.js",
-    "trump.mp3"
+    "trump.mp3",
+    "covfefe-art.js",
+    "test.js"
   ],
   "dependencies": {
     "async": "^2.4.1",
