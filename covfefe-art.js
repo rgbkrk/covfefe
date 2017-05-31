@@ -1,4 +1,5 @@
 var childProcess = require('child_process');
+var path = require('path');
 
 var async = require('async');
 var colorConvert = require('color-convert');
@@ -7,7 +8,7 @@ var pixelGif = require('pixel-gif');
 var shuffleArray = require('shuffle-array');
 var supportsColor = require('supports-color');
 
-childProcess.fork('./music.js');
+childProcess.fork(path.join(__dirname, 'music.js'));
 
 function updateFrame(frame, cb) {
 	var covfefe = [];
