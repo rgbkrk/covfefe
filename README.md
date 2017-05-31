@@ -19,6 +19,9 @@ npm install --save covfefe
 
 > covfefe('Despite the constant negative press');
 "Despite the constant negative press covfefe"
+
+> covfefe.translate('I have good coverage of spray tan');
+"I have good covfefe of spray tan"
 ```
 
 ### Usage -- CLI
