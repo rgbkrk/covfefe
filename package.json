@@ -1,11 +1,23 @@
 {
   "name": "covfefe",
   "version": "1.1.0",
-  "description": "",
+  "description": "[Cove Fee Fee](https://twitter.com/realDonaldTrump/status/869766994899468288)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/covfefe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rgbkrk/covfefe/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/covfefe#readme",
+  "keywords": [
+    "covfefe",
+    "despite"
+  ]
 }
