@@ -1,4 +1,4 @@
-# covfefe
+# covfefe ![build passing](https://img.shields.io/badge/build-passing-brightgreen.svg)
 
 [End tweets with style](https://archive.is/f7UL3)
 
