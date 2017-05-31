@@ -1,3 +1,1 @@
-module.exports = function(input) {
-  return `${input} covfefe`;
-};
+module.exports = input => `${input} covfefe`;
