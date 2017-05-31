@@ -7,7 +7,7 @@
     "covfefe": "bin.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test"
   },
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
   "license": "BSD-3-Clause",
@@ -25,5 +25,8 @@
   ],
   "dependencies": {
     "bl": "^1.2.1"
+  },
+  "devDependencies": {
+    "pitesti": "^2.2.0"
   }
 }
