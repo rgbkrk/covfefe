@@ -1,8 +1,11 @@
 {
   "name": "covfefe",
-  "version": "1.1.3",
+  "version": "1.1.2",
   "description": "[Cove Fee Fee](https://twitter.com/realDonaldTrump/status/869766994899468288)",
   "main": "index.js",
+  "bin": {
+    "covfefe": "bin.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
