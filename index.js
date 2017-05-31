@@ -1,1 +1,3 @@
-module.exports = "Literally WTF is happening?"
+module.exports = function(input) {
+  return input + " covfefe";
+};
