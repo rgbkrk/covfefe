@@ -17,7 +17,7 @@ npm install --save covfefe
 ```javascript
 > const covfefe = require('covfefe');
 
-> covfefe.add('Despite the constant negative press');
+> covfefe('Despite the constant negative press');
 "Despite the constant negative press covfefe"
 
 > covfefe.translate('I have good coverage of spray tan');
@@ -25,8 +25,6 @@ npm install --save covfefe
 ```
 
 ### Usage -- CLI
-
-Currently only implements covfef.add()
 
 ```
 $ covfefe "despite all my rage"

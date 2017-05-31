@@ -6,13 +6,16 @@ const stringDirection = require('string-direction');
  */
 
 
-exports.add = function(input) {
+const add = function(input) {
   if (stringDirection.getDirection(input) === 'rtl') {
     return `covfefe ${input}`;
   }
   return `${input} covfefe`;
 };
 
-exports.translate = function(input) {
+const translate = function(input) {
   return input.replace('coverage', 'covfefe');
 };
+
+module.exports = add;
+module.exports.translate = translate;
