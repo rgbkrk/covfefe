@@ -4,6 +4,6 @@ const pitesti = require('pitesti');
 
 const test = pitesti();
 
-test`adds covfefe`(() => assert.equal(covfefe('foo'), 'foo covfefe'));
+test`adds covfefe`(() => assert.equal(covfefe('Despite the constant negative press'), 'Despite the constant negative press covfefe'));
 
 test();
