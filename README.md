@@ -1,6 +1,6 @@
 # covfefe
 
-[End tweets with style](https://twitter.com/realDonaldTrump/status/869766994899468288)
+[End tweets with style](https://archive.is/f7UL3)
 
 ## Installation
 
