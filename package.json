@@ -6,7 +6,6 @@
   "bin": "./cli.js",
   "scripts": {
     "test": "node test",
-    "postinstall": "node cli.js"
   },
   "author": "Kyle Kelley <rgbkrk@gmail.com>",
   "license": "BSD-3-Clause",
