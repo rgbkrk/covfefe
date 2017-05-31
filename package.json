@@ -1,6 +1,6 @@
 {
   "name": "covfefe",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "[Cove Fee Fee](https://twitter.com/realDonaldTrump/status/869766994899468288)",
   "main": "index.js",
   "bin": {
