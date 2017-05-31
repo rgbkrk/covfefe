@@ -1,21 +1,27 @@
 # covfefe
 
-[Cove Fee Fee](https://twitter.com/realDonaldTrump/status/869766994899468288)
+[End tweets with style](https://twitter.com/realDonaldTrump/status/869766994899468288)
+
+## Installation
+
+```
+npm install --save covfefe
+```
 
 ## Usage
 
-Install:
-
-```
-npm install covfefe
-```
-
-Use:
+### Usage -- Library
 
 ```javascript
-var covfefe = require('covfefe');
+> const covfefe = require('covfefe');
 
-var message = covfefe('Despite the constant negative press');
+> covfefe('Despite the constant negative press');
+"Despite the constant negative press covfefe"
+```
 
-// message -> "Despite the constant negative press covfefe"
+### Usage -- CLI
+
+```
+$ covfefe "despite all my rage"
+despite all my rage covfefe
 ```
