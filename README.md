@@ -1,6 +1,6 @@
 # covfefe
 
-[End tweets with style](http://archive.is/f7UL3)
+[End tweets with style](https://archive.is/f7UL3)
 
 ## Installation
 
