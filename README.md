@@ -33,4 +33,5 @@ despite all my rage covfefe
 
 ## Language Ports
 
-[pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
+- [pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
+- [covfefe.net](https://github.com/igeligel/covfefe.net) - C#, .NET Standard 1.0
