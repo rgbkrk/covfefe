@@ -13,15 +13,15 @@ childProcess.fork(path.join(__dirname, 'music.js'));
 function updateFrame(frame, cb) {
 	var covfefe = [];
 	var skipped = false;
-	for (var y = 0; y < frame.height; y += 2) {
-		for (var x = 0; x < frame.width; x += 1) {
+	for (var y = 0; y < frame.height; y += 4) {
+		for (var x = 0; x < frame.width; x += 2) {
 			var offset = ((y * frame.width) + x) * 4;
 			if (frame.data[offset + 3] === 0) {
 				skipped = true;
 			} else {
 				if (skipped) {
 					skipped = false;
-					covfefe.push('\x1b[' + (y / 2 + 1) + ';' + (x + 1) + 'H');
+					covfefe.push('\x1b[' + (y / 4 + 1) + ';' + (x / 2 + 1) + 'H');
 				}
 
 				switch (supportsColor.level) {
