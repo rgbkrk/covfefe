@@ -36,3 +36,4 @@ despite all my rage covfefe
 - [pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
 - [covfefe.net](https://github.com/igeligel/covfefe.net) - C#, .NET Standard 1.0
 - [covfefe](https://github.com/0x13a/covfefe) - Java
+- [govfefe](https://github.com/manojpandey/govfefe) - Go
