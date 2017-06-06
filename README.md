@@ -31,6 +31,10 @@ $ covfefe "despite all my rage"
 despite all my rage covfefe
 ```
 
+## Related
+
+- [covfefe-tweet](https://github.com/imkimchi/covfefe-tweet) - Tweet like Donald Trump
+
 ## Language Ports
 
 - [pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
