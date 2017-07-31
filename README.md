@@ -41,3 +41,4 @@ despite all my rage covfefe
 - [covfefe.net](https://github.com/igeligel/covfefe.net) - C#, .NET Standard 1.0
 - [covfefe](https://github.com/0x13a/covfefe) - Java
 - [govfefe](https://github.com/manojpandey/govfefe) - Go
+- [covfefe](https://github.com/m13m/covfefe) - Elixir
